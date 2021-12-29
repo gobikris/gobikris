@@ -1,6 +1,6 @@
 - 👋 Hi, I’m gobikrishna  
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning MERN stack develpment @ guvi
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Full stack develpment @ guvi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gobikrishna005@gmail.com
 
