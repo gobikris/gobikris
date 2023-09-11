@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Full stack develpment 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gobikrishna005@gmail.com
+- 📫 How to reach me 
 
 <!---
 gobikris/gobikris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
