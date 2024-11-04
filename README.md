@@ -1,5 +1,5 @@
 - 👋 Hi, I’m gobikrishna  
-- 👀 I’m interested in Web Development 
+- 👀 I’m a Full Stack Web Development 
 - 🌱 I’m currently working as Full stack develpment 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
